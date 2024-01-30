@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="http://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif">
 
-- 🌱 I’m currently learning **Data Science and Data Analytics**
+- 🧑‍💻 I’m currently learning **Data Science and Data Analytics**
 
 
 - 📫 How to reach me **vishalmdesai9@gmail.com**
